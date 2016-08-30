@@ -17,7 +17,7 @@ for that (see
 for an explanation).
 
 ## Compatibility
-Puppet v3.x with Ruby v1.8.7, v1.9.3, v2.0.0
+Puppet v3 and 4 with Ruby versions 1.8.7, 1.9.3, 2.0.0, 2.1.0 and 2.3.1.
 
 ## htpasswd type
 
