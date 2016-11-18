@@ -1,6 +1,6 @@
 {
   "name": "ghoneycutt-htpasswd",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "ghoneycutt",
   "source": "https://github.com/ghoneycutt/puppet-htpasswd.git",
   "license": "Apache-2.0",
@@ -9,10 +9,7 @@
   "project_page": "https://github.com/ghoneycutt/puppet-htpasswd",
   "issues_url": "https://github.com/ghoneycutt/puppet-htpasswd/issues",
   "requirements": [
-    {
-      "name": "pe", "version_requirement": ">= 3.2.0 < 5.0.0",
-      "name": "puppet", "version_requirement": ">= 3.1.0 < 5.0.0"
-    }
+    {"name":"puppet","version_requirement":">= 3.1.0 < 5.0.0"}
   ],
   "dependencies": []
 }
